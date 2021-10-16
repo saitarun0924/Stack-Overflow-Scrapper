@@ -5,9 +5,12 @@ The above code only scrapes the first page of tags which creates a data frame of
 
 Installation of Requests library:
 pip install requests
+
 Installation of Beautiful Soup library:
 pip install beautifulsoup4
+
 Installation of Pandas library:
 pip install pandas
+
 Installation of Matplotlib library:
 pip install matplotlib
